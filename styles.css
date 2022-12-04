@@ -1,0 +1,118 @@
+body{
+    background-color: darkblue;
+}
+
+.imgcent{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    
+}
+
+.mymarq{
+     font-size: 50px;
+     font-weight: bolder;
+     font-style: italic;
+     color: red;
+
+}
+.page{
+    color: aqua;
+}
+.lorem{
+color: aliceblue;
+}
+.abt{
+    color: aliceblue;
+}
+.cot{
+    color: aliceblue;
+}
+
+.fol{
+    color: aliceblue;
+}
+.sit{
+    color: aliceblue;
+}
+.about{
+    color: red;
+    background-color: azure;
+    font-style: italic;
+}
+.contact{
+    color: yellow;
+    background-color: black;
+    font-style: italic;
+}
+.follow{
+    color: fuchsia;
+    background-color: black;
+    font-style: italic;
+}
+.visit{
+    color: orangered;
+    background-color: black;
+}
+.go{
+    color: aqua;
+}
+.back{
+    color: azure;
+}
+.pag{
+    color: mediumspringgreen;
+}
+.vis{
+    color: aliceblue;
+}
+
+.trendind{
+    color: greenyellow;
+    font-size: 200%;
+}
+
+.bac{
+    color: gold;
+}
+.stor{
+    color: lawngreen;
+    background-color: black;
+}
+.con{
+    color: azure;
+}
+.apc{
+    font-style: italic;
+    color: aqua;
+}
+.tinubu{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.super{
+    font-style: italic;
+    color:  orange;
+}
+
+.david{
+     font-style: italic;
+     color: yellow;
+}
+
+.vido{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.thamks{
+    color: white;
+    background-color: red;
+}
+.span{
+    color: yellow;
+}
+
